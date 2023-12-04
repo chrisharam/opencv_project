@@ -1,7 +1,9 @@
-# Opencv Project : 'Face Detection with Haar Cascade Classifier'
+<div align="center">
+
+# Opencv Project  
+# Face Detection with Haar Cascade Classifier'
 ## - Detect Face in Image
 ---
-<div align="center">
   
 ## ✨Explanation
 This repository contains the following.
@@ -36,15 +38,12 @@ mzoon22(https://github.com/mzoon22)
 
 ## ✨Reference
 > [Reference1](https://076923.github.io/posts/Python-opencv-18/)
-
 > [Reference2](https://076923.github.io/posts/Python-opencv-3/)
 
 > [Reference3, code1](https://github.com/sightmachine/SimpleCV/blob/master/SimpleCV/Features/HaarCascades/face.xml)
-
 > [Reference4, code2](https://github.com/sightmachine/SimpleCV/blob/master/SimpleCV/Features/HaarCascades/mouth.xml)
 
 > [Reference5, image1](https://www.chosun.com/entertainments/entertain_photo/2021/01/18/3C6PPXBLFILQQZPZLLSQ2EW4W4/)
-
 > [Reference6, image2](https://m.cafe.daum.net/dotax/Elgq/3898492?svc=topRank)
 
 
